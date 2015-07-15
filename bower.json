@@ -1,0 +1,24 @@
+{
+  "name": "object-urlencode",
+  "version": "0.0.1",
+  "authors": [
+    "77web <info@77-web.com>"
+  ],
+  "description": "convert object to url-encoded query string format. useful to post data from angularjs to php in normal php way.",
+  "main": "main.js",
+  "keywords": [
+    "angularjs",
+    "php"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.3.15"
+  }
+}
