@@ -1,0 +1,18 @@
+{
+  "repository": {
+    "private": true
+  },
+  "devDependencies": {
+    "grunt": "~0.4.4",
+    "grunt-contrib-watch": "~0.6.0",
+    "grunt-karma": "^0.8.2",
+    "karma": "^0.12.9",
+    "karma-jasmine": "^0.1.5",
+    "karma-mocha-reporter": "^0.3.1",
+    "karma-phantomjs-launcher": "^0.1.4"
+  },
+  "dependencies": {
+    "bower": "^1.4.1",
+    "uglify-js": "^2.4.15"
+  }
+}
